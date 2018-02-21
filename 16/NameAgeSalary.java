@@ -16,6 +16,8 @@ public class NameAgeSalary
 
 		System.out.print("So you're " + age + ", eh? That's not old at all! How much do you make " + name + "?");
 		salary = keyboard.nextDouble();
+		
+		System.out.println(salary + "! I hope that's per hour and not per year! LOL!");
 	}
 }
 
